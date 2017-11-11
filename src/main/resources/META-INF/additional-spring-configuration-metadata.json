@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "app.input-dir",
+    "type": "java.lang.String",
+    "description": "A location where import input files can be found"
+  },
+  {
+    "name": "app.report-dir",
+    "type": "java.lang.String",
+    "description": "A location where import report files can be stored"
+  },
+  {
+    "name": "app.completed-dir",
+    "type": "java.lang.String",
+    "description": "A location where import input files can be stored upon successful import"
+  },
+  {
+    "name": "app.access-token",
+    "type": "java.lang.String",
+    "description": "A CloudCard API access token"
+  },
+  {
+    "name": "app.org-id-key",
+    "type": "java.lang.Integer",
+    "description": "A CloudCard Organization ID"
+  },
+  {
+    "name": "app.base-url",
+    "type": "java.lang.String",
+    "description": "A CloudCard API URL"
+  },
+  {
+    "name": "app.test-mode",
+    "type": "java.lang.Boolean",
+    "description": "If set, run job without connecting to the CloudCard API"
+  }
+]}

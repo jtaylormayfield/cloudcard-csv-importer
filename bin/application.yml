@@ -1,0 +1,8 @@
+app:
+  access-token: 12334 #hbg5oh3cte7eeiigo77ri69jfpanucbk
+  base-url: https://te123st.clou123dcardtools.co123m
+  completed-dir: D:\temp\completed
+  input-dir: D:\temp\input
+  org-id-key: 38
+  report-dir: D:\temp\output
+  test-mode: true
